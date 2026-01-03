@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ミルク",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-03T06:09:00.772012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_ミルク_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミルク (Milk)",
+      "artist": "Chara",
+      "has_synced": false,
+      "path": "select/02_ミルク_(Milk)_Chara.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カルア・ミルク",
+      "artist": "SPEED",
+      "has_synced": false,
+      "path": "select/03_カルア・ミルク_SPEED.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "キズ",
+      "has_synced": true,
+      "path": "select/04_ミルク_キズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/05_ミルク_Chara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/06_ミルク_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミルク - MTV Unplugged Version",
+      "artist": "VAMPS",
+      "has_synced": false,
+      "path": "select/07_ミルク_-_MTV_Unplugged_Version_VAMPS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/08_ミルク_H△G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミルク ティー",
+      "artist": "Noriko Sakai",
+      "has_synced": false,
+      "path": "select/09_ミルク_ティー_Noriko_Sakai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "みらくらぱーく！",
+      "has_synced": true,
+      "path": "select/10_ミルク_みらくらぱーく!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルク",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ミルク_みらくらぱーく!.txt"
+    }
+  ]
+}
